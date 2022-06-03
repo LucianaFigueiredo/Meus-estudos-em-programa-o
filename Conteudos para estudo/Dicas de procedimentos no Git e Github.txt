@@ -1,0 +1,7 @@
+Ordem de envio de uma alteração para a plataforma:
+git add *
+git commit -m
+git push
+
+
+*Lembrar de incluir mais comandos aqui
